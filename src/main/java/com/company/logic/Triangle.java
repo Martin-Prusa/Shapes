@@ -8,7 +8,7 @@ public class Triangle extends Shape {
 
     @Override
     public double content() {
-        return a*v/2;
+        return (a*v)/2;
     }
 
     @Override
