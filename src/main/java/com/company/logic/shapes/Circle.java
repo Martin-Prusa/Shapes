@@ -1,8 +1,8 @@
-package com.company.logic;
+package com.company.logic.shapes;
 
 public class Circle extends Shape{
     public Circle(double a) {
-        super(a, -1, -1, -1);
+        super(a);
     }
 
     @Override

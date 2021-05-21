@@ -1,6 +1,10 @@
 package com.company.logic;
 
 import com.company.data.Data;
+import com.company.logic.shapes.Circle;
+import com.company.logic.shapes.Rectangle;
+import com.company.logic.shapes.Shape;
+import com.company.logic.shapes.Square;
 
 import java.util.ArrayList;
 

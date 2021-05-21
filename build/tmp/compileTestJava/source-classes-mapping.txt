@@ -1,8 +1,8 @@
-com/company/logic/RectangleTest.java
- com.company.logic.RectangleTest
 com/company/logic/CircleTest.java
  com.company.logic.CircleTest
 com/company/logic/SquareTest.java
  com.company.logic.SquareTest
 com/company/logic/TriangleTest.java
  com.company.logic.TriangleTest
+com/company/logic/RectangleTest.java
+ com.company.logic.RectangleTest

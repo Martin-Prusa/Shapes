@@ -1,5 +1,6 @@
 package com.company.logic;
 
+import com.company.logic.shapes.Circle;
 import org.junit.jupiter.api.Test;
 
 import static org.junit.jupiter.api.Assertions.*;

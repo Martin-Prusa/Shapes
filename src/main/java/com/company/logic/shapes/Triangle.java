@@ -1,34 +1,25 @@
-package com.company.logic;
+package com.company.logic.shapes;
 
-public class Shape {
-    protected double a;
-    protected double b;
-    protected double c;
-    protected double v;
+public class Triangle extends Shape {
+    private double b;
+    private double c;
+    private double v;
 
-    public Shape(double a, double b, double c, double v) {
-        this.a = a;
+    public Triangle(double a, double b, double c, double v) {
+        super(a);
         this.b = b;
         this.c = c;
         this.v = v;
     }
 
+    @Override
     public double content() {
-        return -1;
+        return (a*v)/2;
     }
 
+    @Override
     public double perimeter() {
-        return -1;
-    }
-
-
-    //-----Getters and setters------------------
-    public double getA() {
-        return a;
-    }
-
-    public void setA(double a) {
-        this.a = a;
+        return this.a+this.b+this.c;
     }
 
     public double getB() {

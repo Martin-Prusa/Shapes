@@ -1,18 +1,18 @@
-com/company/logic/Square.java
- com.company.logic.Square
-com/company/logic/Rectangle.java
- com.company.logic.Rectangle
-com/company/logic/Circle.java
- com.company.logic.Circle
-com/company/presentation/Presentation.java
- com.company.presentation.Presentation
-com/company/logic/Shape.java
- com.company.logic.Shape
 com/company/data/Data.java
  com.company.data.Data
 com/company/Main.java
  com.company.Main
+com/company/logic/shapes/Circle.java
+ com.company.logic.shapes.Circle
+com/company/logic/shapes/Shape.java
+ com.company.logic.shapes.Shape
+com/company/presentation/Presentation.java
+ com.company.presentation.Presentation
+com/company/logic/shapes/Triangle.java
+ com.company.logic.shapes.Triangle
+com/company/logic/shapes/Rectangle.java
+ com.company.logic.shapes.Rectangle
 com/company/logic/Logic.java
  com.company.logic.Logic
-com/company/logic/Triangle.java
- com.company.logic.Triangle
+com/company/logic/shapes/Square.java
+ com.company.logic.shapes.Square
